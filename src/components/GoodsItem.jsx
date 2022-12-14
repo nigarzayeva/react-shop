@@ -28,7 +28,7 @@ function GoodsItem(props) {
                         })
                     }
                 >
-                    Купить
+                    Buy
                 </button>
                 <span className="right" style={{ fontSize: "20px" }}>
                     {price} AZN
